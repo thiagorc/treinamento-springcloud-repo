@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    username: treinamento
+    password: treinamento123
+    url: jdbc:mysql://localhost:3306/fornecedor 
+  jpa:
+    hibernate:
+      ddl-auto: update
